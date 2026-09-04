@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Veriton Technical Solutions</title>
+  <desc id="desc">Veriton precision mark</desc>
+  <rect width="64" height="64" rx="12" fill="#0A3D62"/>
+  <path d="M16 17h9l7 22 7-22h9L36 48h-8L16 17Z" fill="#fff"/>
+  <path d="M42 17h7L39 48h-7l10-31Z" fill="#F39C12"/>
+</svg>
